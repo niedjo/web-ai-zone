@@ -1,7 +1,3 @@
-Voici un README simple pour le site web de l'application mobile **AI Zone** créé en pur HTML et CSS :
-
----
-
 # AI Zone - Site Web
 
 Bienvenue sur le site web de **AI Zone**, une application mobile révolutionnaire dédiée au partage et à la découverte d'œuvres générées par des intelligences artificielles.
@@ -48,7 +44,3 @@ Ce projet est sous licence libre. Vous pouvez l'utiliser, le modifier et le dist
 ## 📧 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter à [niedjokuitche@gmail.com](mailto:niedjokuitche@gmail.com).
-
----
-
-Ce README fournit une vue d'ensemble claire et concise du projet, en soulignant son objectif, les technologies utilisées, et comment accéder au site.
